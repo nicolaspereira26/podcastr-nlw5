@@ -61,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Joseph Oliveira 👋 [Check out my LinkedIn](https://www.linkedin.com/in/joseph-oliveira-294a19165)
+Made with 💜 by Nicolas Pereira  👋 [Check out my LinkedIn](https://www.linkedin.com/in/nicolas-pereira-24b50a1a7/)
